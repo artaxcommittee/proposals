@@ -1,7 +1,7 @@
 ## Requested funds
 
 One time proposal or monthy proposal?
-Specify the amount(s) of XAX
+Specify the amount of XAX
 
 ## Describe your proposal
 
@@ -12,4 +12,10 @@ Is this your first proposal? If not, please provide links to previous proposals.
 
 ## Proposal creator Discord user
 
-Mention your Discord username
+Mention your Discord username, for example:
+`CryptoStar#2449`
+
+## Address to be used for proposal payment(minting)
+
+For example:
+[ASJ3xM3K3vjQqbwy3FGPjjwJYeobPvuFxR](https://artax.blockxplorer.info/address/ASJ3xM3K3vjQqbwy3FGPjjwJYeobPvuFxR)
